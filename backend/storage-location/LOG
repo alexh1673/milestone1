@@ -1,0 +1,5 @@
+2022/10/30-07:48:33.454654 7faed3fff640 Recovering log #319
+2022/10/30-07:48:33.454744 7faed3fff640 Level-0 table #321: started
+2022/10/30-07:48:33.461365 7faed3fff640 Level-0 table #321: 891 bytes OK
+2022/10/30-07:48:33.468676 7faed3fff640 Delete type=0 #319
+2022/10/30-07:48:33.468725 7faed3fff640 Delete type=3 #317
